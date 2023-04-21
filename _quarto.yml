@@ -1,0 +1,25 @@
+project:
+    title: "Lectures"
+format: 
+    pdf:
+        toc: true
+        latex-output-dir: "Notes"
+        execute:
+            echo: true
+            fig-width: 8
+            fig-height: 5
+    beamer:
+        theme: Madrid
+        keep-tex: true
+        colortheme: spruce
+        aspectratio: 169
+        latex-output-dir: "Slides"
+        toc: false
+        execute:
+            echo: false
+            fig-width: 7
+            fig-height: 3.5
+
+
+
+
