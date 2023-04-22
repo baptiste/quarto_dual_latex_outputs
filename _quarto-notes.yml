@@ -1,0 +1,14 @@
+project:
+    title: "Lectures"
+    output-dir: Notes
+format: 
+    pdf:
+        toc: true
+        execute:
+            echo: true
+            fig-width: 8
+            fig-height: 5
+
+
+
+

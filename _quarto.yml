@@ -1,23 +1,5 @@
 project:
-    title: "Lectures"
-format: 
-    beamer:
-        theme: Madrid
-        colortheme: spruce
-        aspectratio: 169
-        toc: false
-        post-render: move_beamer.sh
-        execute:
-            echo: false
-            fig-width: 7
-            fig-height: 3.5
-    pdf:
-        toc: true
-        execute:
-            echo: true
-            fig-width: 8
-            fig-height: 5
-
+  title: "Quarto_dual_latex_outputs"
 
 
 

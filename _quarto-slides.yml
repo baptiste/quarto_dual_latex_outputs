@@ -1,0 +1,15 @@
+project:
+    title: "Lectures"
+    output-dir: Slides
+format: 
+    beamer:
+        theme: Madrid
+        colortheme: spruce
+        aspectratio: 169
+        toc: false
+        execute:
+            echo: false
+            fig-width: 7
+            fig-height: 3.5
+
+
